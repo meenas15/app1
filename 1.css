@@ -1,0 +1,64 @@
+/* * {
+    box-sizing: border-box;
+  } */
+  
+  /* Style the search field
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 10px;
+    border: 0.5px solid rgb(24, 12, 131);
+    float:center;
+    width: 15%;
+    background: #f2efef;
+  }
+  
+  .header {
+    background-color: #a41d1d; */
+    /* text-align: center;
+    padding: 20px;
+  }
+
+
+  body {margin:0;}
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #717673;
+      position: fixed;
+      
+      width: 100%;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: rgb(10, 7, 7);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: #e61be6ef;
+    }
+    
+    .active {
+      background-color: #191798;
+    }
+    .search{
+      text-align: center;
+    }
+   */
+
+
+p{
+  border-color: blue;
+  border: width 5px;;
+  border-style: inset;
+
+}
